@@ -8,4 +8,4 @@
 4 Routing<br>
 5 Topics<br>
 6 RPC<br>
-通过http://www.rabbitmq.com/官网自学RabbitMQ。<br>
+通过官网自学RabbitMQ。http://www.rabbitmq.com/<br>
